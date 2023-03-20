@@ -24,8 +24,8 @@
             
                 <tr>
                     <td> CDC </td>
-                    <td>   87
-                        <td>B+  
+                    <td>   50
+                        <td>F  
                     </td>
                     <td> CAAFIMAAD
                     </td>
