@@ -24,8 +24,8 @@
             
                 <tr>
                     <td> CDC </td>
-                    <td>   Lama Haayo
-                        <td>Z  
+                    <td>   87
+                        <td>B+  
                     </td>
                     <td> CAAFIMAAD
                     </td>
