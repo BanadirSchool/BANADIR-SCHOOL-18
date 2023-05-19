@@ -32,8 +32,8 @@
                 </tr>
                 <tr>               
                     <td> ANATOMY </td>
-                    <td>Lama Hayo  
-                        <td> Z
+                    <td>85
+                        <td> B+
                     </td>
                     <td> CAAFIMAAD
                     </td>
