@@ -24,8 +24,8 @@
             
                 <tr>
                     <td> CDC </td>
-                    <td>   50
-                        <td>F  
+                    <td>   62
+                        <td>D  
                     </td>
                     <td> CAAFIMAAD
                     </td>
@@ -41,8 +41,8 @@
                
                 <tr>
                         <td>PHYSIOLOGY </td>
-                        <td>Lama hayo</td>
-                        <td> Z
+                        <td>95</td>
+                        <td> A+
                         <td> CAAFIMAAD
                         </td>
                     </tr>
