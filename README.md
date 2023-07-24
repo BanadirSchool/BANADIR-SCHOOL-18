@@ -48,16 +48,16 @@
                     </tr>
                     <tr>
                         <td> PHARMACOLOGY</td>
-                        <td>Lama Hayo</td>
-                        <td> Z
+                        <td>96</td>
+                        <td> A+
                         <td> CAAFIMAAD
                         </td>
                     </tr>
                     
                     <tr>
                             <td> NUTRITION</td>
-                            <td>Lama Hayo</td>
-                            <td> Z
+                            <td>100</td>
+                            <td> A+
                             <td> CAAFIMAAD
                             </td>
                         </tr>
