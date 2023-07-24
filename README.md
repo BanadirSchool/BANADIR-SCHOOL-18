@@ -70,7 +70,7 @@
                                     <th>Buuntada</th>
                                     <th>Darajo</th>
                                     <th>Fasalka</th>
-                                </tr>
+                            
                                 
                                     <td> WINDOW 10</td>
                                    
