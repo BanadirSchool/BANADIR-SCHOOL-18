@@ -74,8 +74,8 @@
                                 
                                     <td> WINDOW 10</td>
                                    
-                                    <td> Lama Hayo
-                                        <td>  Z
+                                    <td> 100
+                                        <td>  A+
                                         <td> COMPUTER</td>
                                     </td>
                                 
